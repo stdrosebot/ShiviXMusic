@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/team-katil/ShiviXMusic/stargazers"><img src="https://img.shields.io/github/stars/team-katil/ShiviXMusicteam-katil/ShiviXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/team-katil/ShiviXMusic/stargazers"><img src="https://img.shields.io/github/stars/team-katil/ShiviXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/team-katil/ShiviXMusicteam-katil/ShiviXMusic/network/members"> <img src="https://img.shields.io/github/forks/team-katil/ShiviXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/team-katil/ShiviXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
