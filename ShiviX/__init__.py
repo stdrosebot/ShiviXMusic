@@ -1,4 +1,4 @@
-from ShiviX.core.bot import AnonXBot
+from ShiviX.core.bot import ShiviXBot
 from ShiviX.core.dir import dirr
 from ShiviX.core.git import git
 from ShiviX.core.userbot import Userbot
