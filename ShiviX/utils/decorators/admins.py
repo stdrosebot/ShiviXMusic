@@ -155,7 +155,7 @@ def ActualAdminCB(mystic):
                         try:
                             return await CallbackQuery.answer(
                                 _["general_5"],
-                                show_alert=True
+                                show_alert=True,
                             )
                         except:
                             return
