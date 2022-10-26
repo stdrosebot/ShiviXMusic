@@ -8,7 +8,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 import config
 from config import BANNED_USERS
 from ShiviX import LOGGER, app, userbot
-from ShiviX.core.call import Anon
+from ShiviX.core.call import Shivi
 from ShiviX.plugins import ALL_MODULES
 from ShiviX.utils.database import get_banned_users, get_gbanned
 
@@ -45,7 +45,7 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("AnonX.plugins" + all_module)
+        importlib.import_module("ShiviX.plugins" + all_module)
     LOGGER("ShiviX.plugins").info(
         "Necessary Modules Imported Successfully."
     )
@@ -63,7 +63,7 @@ async def init():
     except:
         pass
     await Shivi.decorators()
-    LOGGER("ShiviX").info("Music Bot Started Successfully, Now Gib your girlfriend chumt to @anonymous_was_bot")
+    LOGGER("ShiviX").info("Music Bot Started Successfully, Now Gib your girlfriend chumt to @KATIL_YOUR_DAD")
     await idle()
 
 
