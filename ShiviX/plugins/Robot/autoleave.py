@@ -3,7 +3,7 @@ from datetime import datetime
 
 import config
 from ShiviX import app
-from ShiviX.core.call import Anon, autoend
+from ShiviX.core.call import Shivi, autoend
 from ShiviX.utils.database import (get_client, is_active_chat,
                                        is_autoend)
 
